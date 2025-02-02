@@ -16,6 +16,24 @@ I'm a B.Tech student at **VIT Vellore** and **IIT Madras**, pursuing dual degree
 
 ---
 
+## 🔥 **Featured Repositories**
+
+### 🚀 **Popular Projects:**
+
+#### 💻 **Fraud Detection System**
+[![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-ML%20Project-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/agneepradeep/Afame-Technologies)
+> An intelligent fraud detection system using machine learning algorithms to detect fraudulent activities.
+
+#### 🎬 **Movie Recommendation System**
+[![Movie Recommendation System](https://img.shields.io/badge/Movie%20Recommendation%20System-ML-red?style=flat-square&logo=python&logoColor=white)](https://github.com/agneepradeep/Movie-Media)
+> A personalized movie recommendation system using NLP techniques to recommend movies based on user preferences.
+
+#### 🌍 **CS Fundamentals**
+[![CS Fundamentals](https://img.shields.io/badge/CS%20Fundamentals-C-green?style=flat-square&logo=algorithm&logoColor=white)](https://github.com/agneepradeep/CS-Fundamentals)
+> A Repository covering a broad spectrum of cs fundamentals. 
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Programming Languages:**
@@ -62,3 +80,5 @@ I'm a B.Tech student at **VIT Vellore** and **IIT Madras**, pursuing dual degree
 ---
 
 💡 *Always learning, always building!* 🚀
+
+---
