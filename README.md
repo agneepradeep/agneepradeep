@@ -60,9 +60,9 @@ I'm a B.Tech student at **VIT Vellore** and **IIT Madras**, pursuing dual degree
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agneepradeep&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agneepradeep&layout=compact&theme=default)
 ![GitHub Stats](https://streak-stats.demolab.com?user=agneepradeep&theme=default&hide_border=true)
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=agneepradeep&theme=cobalt)
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=agneepradeep&theme=default)
 ![Profile Views](https://komarev.com/ghpvc/?username=agneepradeep&color=blue&style=flat-square)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agneepradeep&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agneepradeep&theme=vue)
 
 
 ---
