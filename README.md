@@ -66,6 +66,22 @@ I'm a B.Tech student at **VIT Vellore** and **IIT Madras**, pursuing dual degree
 
 
 ---
+## 👩‍💻 Projects
+<a href="https://github.com/agneepradeep/CS-Fundamentals" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=agneepradeep&theme=light&repo=CS-Fundamentals" width="49%" alt="CS Fundamentals"/>
+</a>
+<a href="https://github.com/agneepradeep/Movie-Media" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=agneepradeep&theme=light&repo=Movie-Media" width="49%" alt="Movie Media"/>
+</a>
+<a href="https://github.com/agneepradeep/portfolio" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=agneepradeep&theme=light&repo=portfolio" width="49%" alt="Portfolio"/>
+</a>
+
+
+
+
+
+---
 
 ## 📜 Certifications
 - **Microsoft Azure AI-900 Fundamentals**
