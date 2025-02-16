@@ -76,9 +76,9 @@ I'm a B.Tech student at **VIT Vellore** and **IIT Madras**, pursuing dual degree
 <a href="https://github.com/agneepradeep/portfolio" target="_blank">
     <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=agneepradeep&theme=light&repo=portfolio" width="49%" alt="Portfolio"/>
 </a>
-
-
-
+<a href="https://github.com/agneepradeep/Java-DSA" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=agneepradeep&theme=light&repo=Java-DSA" width="49%" alt="Java DSA"/>
+</a>
 
 
 ---
